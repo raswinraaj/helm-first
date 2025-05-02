@@ -1,0 +1,6 @@
+apiVersion: v2
+name: sampleapi
+appVersion: "$(Build.BuildNumber)"
+description: A Helm chart for sampleapi
+version: 2.0.0
+type: application
